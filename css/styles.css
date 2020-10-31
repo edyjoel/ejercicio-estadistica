@@ -1,0 +1,46 @@
+.display-none {
+  display: none;
+}
+
+#data {
+  letter-spacing: 10px;
+}
+
+nav,
+.page-footer {
+  background-color: #2bbbad;
+}
+
+.input-field {
+  z-index: 1;
+}
+
+#btn_reset {
+  cursor: pointer;
+  background-color: #dfdfdf;
+  color: #9F9F9F;
+  box-shadow: none;
+  border: none;
+}
+
+.c-chart {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.c-results {
+  padding-bottom: 50px;
+}
+
+header {
+  background-color: #2bbbad;
+}
+
+.c-header {
+  text-align: center;
+  padding: 15px;
+}
+
+.header__link {
+  display: inline-block;
+}
